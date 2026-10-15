@@ -70,7 +70,7 @@ EdgeCast      →  temperature & weather contract prediction for Kalshi markets
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/suchit-basineni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:basineni.suchit@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=flat&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;<a href="https://x.com/suchit_wx"><img src="https://img.shields.io/badge/X-0F172A?style=flat&logo=x&logoColor=white" alt="X" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=SBasineni1&style=flat&color=38BDF8&label=profile+views" alt="profile views" />
+<a href="https://suchitbasineni.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/suchit-basineni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:basineni.suchit@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=flat&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;<a href="https://x.com/suchit_wx"><img src="https://img.shields.io/badge/X-0F172A?style=flat&logo=x&logoColor=white" alt="X" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=SBasineni1&style=flat&color=38BDF8&label=profile+views" alt="profile views" />
 
 <br><br>
 
